@@ -1,2 +1,3 @@
 # AI_image_detector
-A simple model to detect Fake ai images
+Built an AI-generated image detector using PyTorch and ResNet18 with blanced data set
+
